@@ -1,1 +1,36 @@
-# TouYuby
+# YouTubey
+
+# Overviwe 
+
+YouTubey is a web project aimed at Arabic content, allowing users to view recommended videos, newly uploaded videos, and trending videos through a dedicated platform. The project aims to provide a smooth and diverse viewing experience for users in Arabic, with an attractive and user-friendly interface.
+
+## Demo
+
+You can view the live demo of the website [here](https://firasalahmad.web.app/).
+
+## Features
+
+- **Interactive User Interface**: Modern and attractive design with a sidebar and integrated search bar.
+- **Customized Content**: Display of recommended, newly uploaded, and trending videos based on users' interests.
+- **Login System**: Provides the ability to log in and manage accounts.
+- **Advanced Search**: Ability to search for videos via the search bar.
+- **Multilingual Support**: The interface is designed to fully support the Arabic language.
+
+## Technologies Used
+
+- **HTML5**: For creating the structure of content and pages.
+- **CSS3**: For designing and styling the user interface using Bootstrap.
+- **JavaScript**: For adding interactions and dynamic functionality.
+- **Bootstrap**: Framework for designing the interface and styling elements.
+- **Font Awesome**: For using custom icons.
+
+## Setup and Run the Project
+
+
+### Step 1: Clone the Project:
+
+Open a terminal and execute the following command to Clone the project:
+
+```bash
+
+git clone  https://github.com/Firas-AL-Ahmad/TouYuby.git
