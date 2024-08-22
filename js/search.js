@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function() {
     //فتح وإغلاق مرشحات تصفية البحث
     $("#search-filters-icon").click(function () {
         $(".filter-column").slideToggle("slow");
