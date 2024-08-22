@@ -21,7 +21,7 @@ function read() {
       moreText.style.display = "none";/*أخفي النص */
     } else {/*إذا كانت النقط الثلاث ظاهرين أي النص مخفي وضغطت على الزر */
       dots.style.display = "none";/*أخفي النقط */
-      btnText.innerHTML = "عرض عناصر أقل";
+      btnText.innerHTML = "عرض أقل";
       moreText.style.display = "inline";/*أظهر النص المخفي */
     }
 }
