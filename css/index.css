@@ -192,9 +192,9 @@ time {
     color: #bf40bf;
     cursor: pointer;
     padding: 15px 10px;
-    position: absolute;
+    /* position: absolute;
     top: 15px;
-    left: 132px;
+    left: 132px; */
     display: none;
 }
 
